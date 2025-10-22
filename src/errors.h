@@ -1,0 +1,12 @@
+#ifndef ERROR_CODES_H
+#define ERROR_CODES_H
+
+
+enum class ErrorCode{
+    ADDITION_INCOMPATIBLE, 
+    MULTIPLICATION_INCOMPATIBLE, 
+
+}; 
+
+
+#endif //ERROR_CODES_H 
